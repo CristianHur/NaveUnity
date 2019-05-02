@@ -1,0 +1,13 @@
+{
+"companyName": "Dequei",
+"productName": "Nave",
+"dataUrl": "Compilado.data.unityweb",
+"asmCodeUrl": "Compilado.asm.code.unityweb",
+"asmMemoryUrl": "Compilado.asm.memory.unityweb",
+"asmFrameworkUrl": "Compilado.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
